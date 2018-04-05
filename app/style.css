@@ -1,0 +1,23 @@
+.formContainer {
+  width: 300px;
+  margin: 0 auto;
+}
+.form {
+}
+.form__row {
+  display: block;
+  margin-bottom: 12px;
+}
+.formInput {
+  width: 100%;
+  height: 32px;
+  box-sizing: border-box;
+}
+.formButton {
+  display: block;
+  width: 100%;
+  height: 36px;
+}
+.errorMsg {
+  color: red;
+}

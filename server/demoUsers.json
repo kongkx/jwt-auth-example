@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "username": "sortner0",
+    "password": "17Or7Dphs",
+    "first_name": "Suzanne",
+    "last_name": "Ortner",
+    "email": "sortner0@skype.com",
+    "gender": "Female",
+    "avatar":
+      "https://robohash.org/omnisaperiamdeserunt.bmp?size=50x50&set=set1"
+  },
+  {
+    "id": 2,
+    "username": "ahext1",
+    "password": "6TisExuIi7pL",
+    "first_name": "Ambrose",
+    "last_name": "Hext",
+    "email": "ahext1@state.gov",
+    "gender": "Male",
+    "avatar": "https://robohash.org/etsintlibero.jpg?size=50x50&set=set1"
+  },
+  {
+    "id": 3,
+    "username": "lnasey2",
+    "password": "T9kiLe",
+    "first_name": "Lettie",
+    "last_name": "Nasey",
+    "email": "lnasey2@google.pl",
+    "gender": "Female",
+    "avatar": "https://robohash.org/fugiatquiaunde.png?size=50x50&set=set1"
+  },
+  {
+    "id": 4,
+    "username": "meastlake3",
+    "password": "Xe7HNX6",
+    "first_name": "Martainn",
+    "last_name": "Eastlake",
+    "email": "meastlake3@ovh.net",
+    "gender": "Male",
+    "avatar": "https://robohash.org/voluptastemporeiste.png?size=50x50&set=set1"
+  },
+  {
+    "id": 5,
+    "username": "selms4",
+    "password": "86pL9hqDJZAp",
+    "first_name": "Sharity",
+    "last_name": "Elms",
+    "email": "selms4@w3.org",
+    "gender": "Female",
+    "avatar": "https://robohash.org/itaqueassumendaet.bmp?size=50x50&set=set1"
+  },
+  {
+    "id": 6,
+    "username": "cdmitrienko5",
+    "password": "XXAT3Tc",
+    "first_name": "Corrie",
+    "last_name": "Dmitrienko",
+    "email": "cdmitrienko5@berkeley.edu",
+    "gender": "Male",
+    "avatar":
+      "https://robohash.org/aspernaturdolorumrerum.jpg?size=50x50&set=set1"
+  },
+  {
+    "id": 7,
+    "username": "jtoquet6",
+    "password": "3EbG0K1c",
+    "first_name": "Joanne",
+    "last_name": "Toquet",
+    "email": "jtoquet6@admin.ch",
+    "gender": "Female",
+    "avatar": "https://robohash.org/velquiomnis.bmp?size=50x50&set=set1"
+  },
+  {
+    "id": 8,
+    "username": "rkuhlen7",
+    "password": "FOnIL4ip0L4c",
+    "first_name": "Rosabelle",
+    "last_name": "Kuhlen",
+    "email": "rkuhlen7@state.gov",
+    "gender": "Female",
+    "avatar":
+      "https://robohash.org/nihilvoluptasincidunt.bmp?size=50x50&set=set1"
+  },
+  {
+    "id": 9,
+    "username": "wperis8",
+    "password": "R47K52KWbp",
+    "first_name": "Wildon",
+    "last_name": "Peris",
+    "email": "wperis8@1und1.de",
+    "gender": "Male",
+    "avatar": "https://robohash.org/voluptasomnisquis.png?size=50x50&set=set1"
+  },
+  {
+    "id": 10,
+    "username": "demo",
+    "password": "password",
+    "first_name": "Kongkx",
+    "last_name": "Yang",
+    "email": "kongkx.yang@gmail.com",
+    "gender": "Male",
+    "avatar": "https://robohash.org/nullalaudantiumqui.png?size=50x50&set=set1"
+  }
+]
